@@ -13,4 +13,4 @@ Now it is more accessible to everyone.
 
 ## Link to the webpage
 
-[Horiseon Internet Solutions](https://bragren.github.io/Horiseon-internet-solutions/)
+[Horiseon Internet Solutions](https://bragren.github.io/Horiseon-internet-solutions/) 
